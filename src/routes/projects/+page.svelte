@@ -1,1 +1,1 @@
-about page
+projects page
