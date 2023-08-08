@@ -1,5 +1,5 @@
-<h1>Home</h1>
+<h1>home</h1>
 <br>
-<a href="/about">About</a>
+<a href="/about">about</a>
 <br>
-<a href="/projects">Projects</a>
+<a href="/projects">projects</a>
