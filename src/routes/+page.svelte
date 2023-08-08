@@ -1,4 +1,5 @@
-home
-<a href="/about">about</a>\n
-<a href="/projects">projects</a>
-
+<h1>Home</h1>
+<br>
+<a href="/about">About</a>
+<br>
+<a href="/projects">Projects</a>
