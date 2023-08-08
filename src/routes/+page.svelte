@@ -1,6 +1,4 @@
-HOME PAGE
-<a href="/about">about</a>
-
-PROJECTS PAGE
+home
+<a href="/about">about</a>\n
 <a href="/projects">projects</a>
 
